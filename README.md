@@ -22,13 +22,13 @@ An installer for a scheduled version of [ManageEngine Asset Explorer][ae-website
 ## How to install
 
 ```bash
-curl -s https://raw.githubusercontent.com/llovvoll/manageengine/master/asset-explorer/ae_scan_mac_scheduled.sh | sudo bash -s -- -h 172.17.100.208 -i
+curl -s https://raw.githubusercontent.com/RickJiangOnGitHub/macOS-MAE/master/asset-explorer/ae_scan_mac_scheduled.sh | sudo bash -s -- -h 172.17.100.208 -i
 ```
 
 ## How to Uninstall
 
 ```bash
-curl -s https://raw.githubusercontent.com/llovvoll/manageengine/master/asset-explorer/ae_scan_mac_scheduled.sh | sudo bash -s -- -h 172.17.100.208 -r
+curl -s https://raw.githubusercontent.com/RickJiangOnGitHub/macOS-MAE/master/asset-explorer/ae_scan_mac_scheduled.sh | sudo bash -s -- -h 172.17.100.208 -r
 ```
 
 [ae-website]: https://www.manageengine.com/products/asset-explorer/
